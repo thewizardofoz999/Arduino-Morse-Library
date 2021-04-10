@@ -1,0 +1,5 @@
+Morse	KEYWORD1
+dash	KEYWORD2
+dot	KEYWORD2
+new_letter	KEYWORD2
+new_word	KEYWORD2
